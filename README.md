@@ -7,7 +7,8 @@ In this project we try to implement solutions to the [GeoLifeClef](https://www.i
 We will use the [GLC](https://github.com/maximiliense/GLC "GLC") library which includes some helper functions provided by the competition itself. These helper functions help falicitate the import of image patches and observations.
 
 ## Data Import
-##Significant Methods:
+
+## Significant Methods:
 
 ### Method 1: Deep Neural Network
 The DNN Model is located it DL_DNN_Baseline.py. Only the DATA_PATH Parameter will need to be changed in order to run the model.
